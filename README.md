@@ -103,5 +103,21 @@ cd Banking-Management-System
 
 dotnet run
 ```
+---
+
+## 📸 Sample Operations
+
+```text
+===== Banking Management System =====
+
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Transfer Funds
+5. View Accounts
+6. Exit
+
+Select an option:
+```
 
 ---
