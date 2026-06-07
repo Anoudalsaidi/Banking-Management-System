@@ -1,2 +1,27 @@
-# Banking-Management-System
-This project is a SimBanking Management System built using JavaScript that runs in the browser console. The system simulates basic banking operations for a single client such as creating an account, depositing and withdrawing money, viewing transaction history, and calculating yearly interest.
+# 🏦 Banking Management System
+
+![C#](https://img.shields.io/badge/C%23-Programming-blue)
+![.NET](https://img.shields.io/badge/.NET-Console_App-purple)
+![OOP](https://img.shields.io/badge/OOP-Principles-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+A console-based Banking Management System built using **C#** and **Object-Oriented Programming (OOP)** principles.
+
+---
+
+## 📌 Project Overview
+
+The Banking Management System simulates core banking operations in a secure and structured environment.
+
+The project focuses on applying fundamental software engineering concepts including:
+
+- Object-Oriented Programming (OOP)
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Data Validation
+- Exception Handling
+- Modular Design
+
+Users can create accounts, manage balances, and perform banking transactions through an interactive console interface.
