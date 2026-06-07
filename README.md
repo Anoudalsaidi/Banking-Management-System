@@ -119,5 +119,18 @@ dotnet run
 
 Select an option:
 ```
+---
+
+## 🎯 Learning Outcomes
+
+This project helped strengthen skills in:
+
+- C# Programming
+- OOP Design
+- Problem Solving
+- Console Application Development
+- Software Architecture Basics
+- Clean Code Practices
 
 ---
+
