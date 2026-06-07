@@ -134,3 +134,24 @@ This project helped strengthen skills in:
 
 ---
 
+## 🔮 Future Improvements
+
+- Database Integration (SQL Server)
+- Authentication System
+- Transaction History Reports
+- Interest Calculation
+- ATM Simulation
+- GUI Version using Windows Forms or WPF
+
+---
+
+## 👩‍💻 Author
+
+**Anoud Alsaidi**
+
+GitHub:
+https://github.com/Anoudalsaidi
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
