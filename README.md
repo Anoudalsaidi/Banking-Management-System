@@ -54,3 +54,25 @@ Users can create accounts, manage balances, and perform banking transactions thr
 - Interactive menu navigation
 
 ---
+
+## 🏗️ Project Structure
+
+```text
+BankingManagementSystem
+│
+├── Models
+│   ├── Account.cs
+│   ├── Customer.cs
+│
+├── Services
+│   ├── BankingService.cs
+│
+├── Utilities
+│   ├── Validation.cs
+│
+├── Program.cs
+│
+└── README.md
+```
+
+---
