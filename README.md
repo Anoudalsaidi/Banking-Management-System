@@ -25,3 +25,32 @@ The project focuses on applying fundamental software engineering concepts includ
 - Modular Design
 
 Users can create accounts, manage balances, and perform banking transactions through an interactive console interface.
+---
+
+## ✨ Features
+
+### 👤 Account Management
+- Create new bank accounts
+- View account details
+- Search for existing accounts
+- Update customer information
+
+### 💰 Banking Operations
+- Deposit funds
+- Withdraw funds
+- Transfer money between accounts
+- Check account balance
+
+### 🔒 Security & Validation
+- Input validation
+- Error handling
+- Prevent invalid transactions
+- Secure transaction workflow
+
+### 📊 System Functions
+- Display all accounts
+- Transaction tracking
+- Account status management
+- Interactive menu navigation
+
+---
