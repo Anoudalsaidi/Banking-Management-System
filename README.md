@@ -74,5 +74,15 @@ BankingManagementSystem
 │
 └── README.md
 ```
+---
+## 🧠 OOP Concepts Applied
+
+| Principle | Implementation |
+|------------|---------------|
+| Encapsulation | Protecting account data using properties and private fields |
+| Inheritance | Extending base classes when needed |
+| Polymorphism | Flexible behavior through method overriding |
+| Abstraction | Simplifying complex banking operations |
+| Composition | Organizing system components into reusable classes |
 
 ---
