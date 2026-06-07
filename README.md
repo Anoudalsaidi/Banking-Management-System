@@ -86,3 +86,22 @@ BankingManagementSystem
 | Composition | Organizing system components into reusable classes |
 
 ---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- .NET SDK 6.0 or later
+- Visual Studio / VS Code
+
+### Run the Project
+
+```bash
+git clone https://github.com/Anoudalsaidi/Banking-Management-System.git
+
+cd Banking-Management-System
+
+dotnet run
+```
+
+---
